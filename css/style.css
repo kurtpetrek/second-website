@@ -41,6 +41,18 @@ nav a:hover {
 	text-align: center;
 }
 
+.main-content {
+	background-color: #fff;
+	padding: 20px;
+	margin: 20px;
+}
+
+.img-50 {
+	width: 50%;
+	display: block;
+	margin: 10px auto;
+}
+
 
 
 
