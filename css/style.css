@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+
 * {
 	box-sizing: border-box;
 	padding: 0;
@@ -6,6 +9,14 @@
 
 body {
 	background-color: #476A6F; 
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h2 {
+	background-color: pink;
+	margin: 10px 0;
+	padding: 10px;
 }
 
 nav ul {
@@ -52,6 +63,21 @@ nav a:hover {
 	display: block;
 	margin: 10px auto;
 }
+
+
+
+
+
+
+
+/* These are Utility Classes
+========================================== */
+
+.center-text {
+	text-align: center;
+}
+
+
 
 
 
