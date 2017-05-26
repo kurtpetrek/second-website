@@ -63,6 +63,10 @@ nav a:hover {
 	margin: 10px auto;
 }
 
+label {
+	display: block;
+}
+
 
 
 
